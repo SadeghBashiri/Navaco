@@ -54,7 +54,7 @@ public class MainApp {
                     target.add(source.get(i));
                 }
             }
-            System.out.println(total);
+            System.out.println("Total: " + total);
 
             System.out.println("Do you want to continue y or n");
             str = scanner.nextLine();
